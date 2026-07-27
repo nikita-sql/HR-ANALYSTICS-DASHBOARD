@@ -27,7 +27,7 @@ Research & Development department has the highest number of attrition cases.
 Employees who travel frequently show relatively higher attrition.
 Most attrition occurs among employees in the 26–35 age group.
 
-#Keys Tools 
+#Keys Tools Used
 Microsoft Power BI 
 Power Query 
 DAX (Data Analysis Expressions) 
