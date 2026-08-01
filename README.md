@@ -1,7 +1,7 @@
 # HR-ANALYSTICS-DASHBOARD
 Developed an interactive HR Analytics Dashboard in Power BI to analyze employee attrition and workforce trends. The dashboard helps HR managers identify the key factors affecting employee turnover and supports data-driven decision-making.
 
-#KPI Cards
+# KPI Cards
 The dashboard displays the following Key Performance Indicators:
 Total Employees
 Attrition Count
@@ -10,14 +10,14 @@ Average Salary
 Average Age
 Average Tenure
 
-#Filters Available:  
+# Filters Available:  
 Interactive dashboard with slicers.
 Dynamic KPI cards.
 User-friendly layout.
 Professional design with a custom background.
 Real-time filtering across all visuals.
 
-#Details Insights
+# Details Insights
 Overall attrition rate is 16.12%.
 Total employees: 1,470 (or 1K as displayed).
 Average employee age is 36.92 years.
@@ -27,7 +27,7 @@ Research & Development department has the highest number of attrition cases.
 Employees who travel frequently show relatively higher attrition.
 Most attrition occurs among employees in the 26–35 age group.
 
-#Keys Tools Used
+# Keys Tools Used
 Microsoft Power BI 
 Power Query 
 DAX (Data Analysis Expressions) 
